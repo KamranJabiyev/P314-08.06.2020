@@ -1,0 +1,6 @@
+E:\P314\EnumInterface\EnumInterface\bin\Debug\EnumInterface.exe.config
+E:\P314\EnumInterface\EnumInterface\bin\Debug\EnumInterface.exe
+E:\P314\EnumInterface\EnumInterface\bin\Debug\EnumInterface.pdb
+E:\P314\EnumInterface\EnumInterface\obj\Debug\EnumInterface.csprojAssemblyReference.cache
+E:\P314\EnumInterface\EnumInterface\obj\Debug\EnumInterface.exe
+E:\P314\EnumInterface\EnumInterface\obj\Debug\EnumInterface.pdb
